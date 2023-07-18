@@ -4,7 +4,7 @@ https://public.tableau.com/app/profile/andrew.grimm4479/viz/CitiBikeViz_16830667
 ## Goal
 - For this challenge, I was tasked with generating reports for officials for the New York Citi Bike program in order to publicize and improve the program
 - The premise was that the data has been regularly updated, but the team has yet to implement a dashboard or sophisticated reporting process for visualizing the data.  
-- I was tasked with obtaining monthly datasets in the form of csv files from the Citibike data webpage: https://citibikenyc.com/system-data and review and visualize the data using Tableau
+- I was tasked with obtaining monthly datasets in the form of csv files from the Citibike data webpage: https://citibikenyc.com/system-data and review and visualize the data using Tableau.
 
 ## Method
 - For the challenge, I chose to download csv files for data between January 2020 and January 2021 (13 datasets total, located in Citibike Data folder in this github)
