@@ -7,10 +7,10 @@ https://public.tableau.com/app/profile/andrew.grimm4479/viz/CitiBikeViz_16830667
 - I was tasked with obtaining monthly datasets in the form of csv files from the Citibike data webpage: https://citibikenyc.com/system-data and review and visualize the data using Tableau.
 
 ## Method
-- For the challenge, I chose to download csv files for data between January 2020 and January 2021 (13 datasets total, located in Citibike Data folder in this github)
-- I initially attempted to join all the datasets within Tableau, but discovered that due to their size and the number of records, Tableau was having trouble joining more than 5 datasets without locking up
-- I therefore read in the csv files using Pandas and merged them into one combined dataframe.  This new dataframe was written out as a new csv file which included all the data
-- From there, I explored the data using Tableau and searched for interesting phenomena to visualize in dashboards and a story page
+- For the challenge, I chose to download csv files for data between January 2020 and January 2021 (13 datasets total, located in Citibike Data folder in this github).
+- I initially attempted to join all the datasets within Tableau, but discovered that due to their size and the number of records, Tableau was having trouble joining more than 5 datasets without locking up.
+- I therefore read in the csv files using Pandas and merged them into one combined dataframe.  This new dataframe was written out as a new csv file which included all the data.
+- From there, I explored the data using Tableau and searched for interesting phenomena to visualize in dashboards and a story page.
 - I discovered trends for the total number of trips logged and the percent change by month, numbers of users by usertype, peak hours in summer and winter months, etc.  
 
 ## Summary and Results
